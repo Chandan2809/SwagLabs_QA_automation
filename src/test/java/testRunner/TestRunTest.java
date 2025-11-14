@@ -22,7 +22,7 @@ import static io.cucumber.junit.platform.engine.Constants.*;
 
 @Disabled
 
-public class TestRun {
+public class TestRunTest {
     // Empty class
  
 }
