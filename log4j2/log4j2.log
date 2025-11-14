@@ -238,3 +238,12 @@
 [INFO ] 2025-11-14 16:45:09 [main] (Swag_Lab_Add_Products.java:79) - Enter Customer Details
 [INFO ] 2025-11-14 16:45:10 [main] (Swag_Lab_Add_Products.java:99) - Click on Continue Button
 [INFO ] 2025-11-14 16:45:10 [main] (Swag_Lab_Add_Products.java:106) - Click on Finish Button
+[INFO ] 2025-11-14 17:19:54 [main] (Swag_Lab_Login_StepDef.java:25) - Enter the User Name
+[INFO ] 2025-11-14 17:19:55 [main] (Swag_Lab_Login_StepDef.java:29) - Enter the User Name
+[INFO ] 2025-11-14 17:19:55 [main] (Swag_Lab_Login_StepDef.java:37) - Enter the User Name
+[INFO ] 2025-11-14 17:19:56 [main] (Swag_Lab_Add_Products.java:39) - Click on Add to product
+[INFO ] 2025-11-14 17:19:57 [main] (Swag_Lab_Add_Products.java:46) - Click on Cart
+[INFO ] 2025-11-14 17:19:57 [main] (Swag_Lab_Add_Products.java:55) - Click on Cart
+[INFO ] 2025-11-14 17:20:00 [main] (Swag_Lab_Add_Products.java:79) - Enter Customer Details
+[INFO ] 2025-11-14 17:20:01 [main] (Swag_Lab_Add_Products.java:99) - Click on Continue Button
+[INFO ] 2025-11-14 17:20:01 [main] (Swag_Lab_Add_Products.java:106) - Click on Finish Button
