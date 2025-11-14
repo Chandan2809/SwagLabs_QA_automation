@@ -42,7 +42,7 @@ public class Swag_Lab_Add_Products extends Base {
 
 	@Then("Click on SwagLab Cart Icon")
 	public void click_on_swag_lab_cart_icon() throws InterruptedException {
-		driver.findElement(By.xpath(prop.getProperty("ClickOnCart"))).click();
+		driver.findElement(By.xpath(prop.getProperty("ClickOnCart"))).click();// comment
    	    logger.info("Click on Cart");
    	    Thread.sleep(500);
 	
